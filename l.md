@@ -189,3 +189,94 @@
 99. lick [lik] vt.舔;(火焰或浪)掠过;打败 n.舔;少量
 
 100. lid [lid] n.盖
+lie	vi.躺，平放；处于；位于 v.说谎 n.谎话
+life	n.生命，生存；一生，寿命；生活；生物
+lifetime	n.一生,终生
+lift	v.升起,举起,消散 n.电梯,上升,免费搭车
+light	n.光；灯 v.点燃；照亮 a.轻(快)；淡；明亮
+lightning	n.闪电 a.闪电般的,快速的
+like	v.喜欢 prep.象；比如 a.相象的 n.象…一样
+likelihood	n.可能性
+likely	a.很可能的,有希望的 ad.大概,多半
+likewise	ad.同样地,照样地;又,也,而且
+limb	n.肢,翼,大树枝
+limit	n.界限,限度,范围 v.(to)限制,限定
+limitation	n.限制,局限性
+limited	a.有限的,被限制的
+limp	a.柔软的,易曲的 v./n.蹒跚,跛行
+line	n.线;路线,航线;排;线路;界线 v.排队;加衬
+linear	a.线的，直线的，线状的；长度的；线性的
+linen	n.亚麻布,亚麻布制品
+liner	n.班机,定期轮船,邮船
+linger	v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘
+linguistic	a.语言的，语言学的
+link	v.连接,联系 n.环节,链环
+lion	n.狮子
+lip	n.嘴唇
+liquid	n.液体 a.液体的,液态的
+liquor	n.酒；溶液，液剂
+list	n.表,目录,名单 v.把…编列成表,列入表内
+listen	vi.倾听(与介词to并用，方可置宾语)
+literacy	n.有文化,有教养,有读写能力
+literally	ad.照字面意义,逐字地;确实
+literary	a.文学上的,文学的;精通文学的,从事写作的
+literature	n.文学,文学作品,文献,图书资料,印刷品
+litre	n.(liter)升；公升(容量单位)
+litter	n.垃圾,(杂乱的)废物 v.使杂乱,乱丢
+little	a.小，幼小；不多的 ad./n.不多，几乎没有
+live	v.活着,生活,居住 a.活的,生动的,直播的
+lively	a.活泼的,活跃的;栩栩如生的,真实的
+liver	n.肝,肝脏
+living	a.活的,有生命的,天然的,逼真的n.生活,生计
+living-room	n.起居室
+load	v.装(货),装载 n.装载(量),负荷(量);(一)担
+loaf	n.一个面包
+loan	n.贷款;出借,借出 v.借出
+lobby	n.门廊,门厅,(会议)休息厅
+local	a.地方的,当地的;局部的
+locality	n.位置,地点
+locate	v.查出,探出,查找…地点,使…坐落于,位于
+location	n.位置,场所,定位,测位
+lock	n.锁 v.锁,锁上
+locker	n.更衣箱
+locomotive	n.机车,火车头 a.运动的,移动的,运载的
+lodge	v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆
+lofty	a.崇高的，高尚的；高傲的；极高的
+log	n.原木,圆木;航海日志
+logic	n.逻辑,逻辑学
+logical	a.逻辑的,符合逻辑的
+lonely	a.孤独的，寂寞的；荒凉的，人迹稀少的
+long	a.长的，长时间的，长期的 ad.长久，长期地
+longitude	n.经度
+look	vi./n.看，注视 v.好像，显得 n.外表，脸色
+loom	n.织布机,织机 v.隐现,(危险、忧虑等)迫近
+loop	n.圈,环
+loose	a.(宽)松的；不精确的；自由的，散漫的
+loosen	v.解开,放松
+lord	n.(Lord)上帝,主;主人,长官,君主,贵族
+lorry	n.卡车,运货汽车
+lose	v.丢失,迷路,输掉,亏本,失败,走慢,使沉湎于
+loss	n.丧失，遗失；损失，损耗，亏损；失败
+lot	n.许多，大量；签，抽签；命运；场地
+lottery	n.抽彩；碰运气的事，难于算计的事
+loud	a.大声的,响亮的;吵闹的,喧嚣的
+loudspeaker	n.扬声器,扩音器
+lounge	n.休息室,起居室,客厅
+love	n.爱，爱情，喜欢 vt.爱，热爱；爱好，喜欢
+lovely	a.可爱的,好看的;令人愉快的,美好的
+lover	n.爱好者;(pl.)情侣
+low	a.低，矮；低级的，下层的，卑贱的；低声的
+lower	a.较低的,下级的,下游的 v.降下,放低
+loyal	a.(to)忠诚的,忠贞的
+loyalty	n.忠诚,忠心
+lubricate	v.润滑,加润滑油,行贿,收买
+luck	n.运气;好运,侥幸
+lucky	a.幸运的,侥幸的
+luggage	n.行李,皮箱
+lumber	n.木材,木料
+lump	n.团,块 v.(使)成团,(使)成块
+lunar	a.月亮的
+lunch	n.午餐，(美)便餐
+lung	n.肺
+lure	n.吸引力,魅力,诱惑物 vt.引诱，吸引
+luxury	n.奢侈,华贵;奢侈品 a.奢华的,豪华的
