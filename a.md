@@ -1,5 +1,5 @@
 a:
-a [ei] art.一(个);每一(个);(同类事物中)任一个
+    1.a [ei] art.一(个);每一(个);(同类事物中)任一个
 　　2. abandon [?'b?nd?n] vt.离弃，丢弃;遗弃，抛弃;放弃
 　　3. abdomen [?b'd?umen] n.腹，下腹(胸部到腿部的部分)
 　　4. abatement [?'beitm?nt] n.减(免)税，打折扣，冲销
