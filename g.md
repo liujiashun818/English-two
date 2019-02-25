@@ -146,3 +146,4 @@
 　　10. gun [ɡ?n] n.枪，炮，手枪
 　　11. gut [ɡ?t] n.[pl.]胆量;内脏a.本能的vt.取出内脏
 　　12. guy [ɡai] "n.家伙, 人"
+    13. gymnasium [d?im'neizi?m] n.(gym)体育馆，健身房
